@@ -79,7 +79,7 @@ For this project i took around `10 to 15 minutes` to complete it.
 - **Email 📧:** [vanditbera@gmail.com](mailto:vanditbera@gmail.com)
 - **Blog 📝:** [blogs.Vandit2510.in](https://vandit-bera.hashnode.dev/)
 
-Project Link: [GitHub](https://github.com/vandit-bera/Basic-Counter)
+Project Link: [GitHub](https://github.com/vandit-bera/See-What-You-Type)
 
 
 <!-- Linkedin -->
