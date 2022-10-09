@@ -14,7 +14,7 @@
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">Basic Counter</h3>
+<h3 align="center">See what you type</h3>
 
   <p align="center">   
     <a href="https://vb-see-what-you-type.vercel.app/">View Live Demo</a>
