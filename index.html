@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>See What You Type</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>See What You Type</h1>
+      <textarea id="input" cols="30" rows="10" oninput="update()"></textarea>
+      <h3>Your Text :</h3>
+      <p id="output">Hello Folks!</p>
+    </div>
+  </body>
+  <script>
+    //code here
+    /* Fetch value */
+    let inp = document.getElementById("input");
+    let out = document.getElementById("output");
+
+    /* update function */
+    function update(){
+      out.innerText = inp.value;
+    }
+    
+  </script>
+</html>
